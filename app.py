@@ -163,7 +163,7 @@ def result():
          cos_sim.append(cosine_similarity(tfidfQ, tfidf_binary_df , Query_lst , doc_num))
       return cos_sim
    similarity_docs = rank_similarity_docs(Tokenized_Word_list)
-   print("Top 5 relevant documents along with their smilarity scores is as following:")
+   # print("Top 5 relevant documents along with their smilarity scores is as following:")
    result = {}
    for i in range(len(files)):
       result[files[i]]=similarity_docs[i]
