@@ -28,7 +28,7 @@ The *PRIS* UI looks like following:
 - BM, Tf-Idf and Posting list : contain the jupyter notebooks having the code for various retrieval techniques.
 - higlish_spellcheck.py and scrap.ipynb : form the files for scrapping and preprocessing of data.
 
-* Tools and Technologies used *
+*5. Tools and Technologies used *
 - [Python 3.9](https://www.python.org/downloads/release/python-396/) - widely used programming language
 - [flask](https://flask.palletsprojects.com/en/2.1.x/) - popularly used web framework
 - Libraries used : numPy, Pandas, nltk, Beautifulsoup, unidecode etc.
