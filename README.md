@@ -1,6 +1,6 @@
 # Poetry Identification and Recommendation System
-The *Poetry Identification and Recommendation System aka PRIS* is a web app which identifies the actual poem, retrieves the 5 best matching Poems and 10 recommendations based on the query entered by user.
-The *PRIS* UI looks like following:
+The *Poetry Identification and Recommendation System aka PIRS* is a web app which identifies the actual poem, retrieves the 5 best matching Poems and 10 recommendations based on the query entered by user.
+The *PIRS* UI looks like following:
 
 ![Home Page](Page1.png)
 ![Match + Suggestion](Page2_.png)
